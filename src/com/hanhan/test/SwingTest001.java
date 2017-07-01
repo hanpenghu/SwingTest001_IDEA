@@ -1,6 +1,6 @@
 package com.hanhan.test;
 
-import javax.swing.*;
+import javax.swing.JFrame;
 
 /**
  * Created by hanhan on 2017-07-01.
