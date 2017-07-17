@@ -28,6 +28,10 @@ public class Top_middle_base_Component {
         jf.setVisible(true);
 
 
+
+
+
+
     }
 
     public static void main(String[]args){
