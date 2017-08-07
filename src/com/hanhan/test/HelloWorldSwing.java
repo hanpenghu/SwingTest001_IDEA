@@ -11,7 +11,7 @@ public class HelloWorldSwing {
         JFrame.setDefaultLookAndFeelDecorated(true);
 
         // 创建及设置窗口
-        JFrame frame = new JFrame("HelloWorldSwing");
+        JFrame frame = new JFrame("HelloWorldSwing你好");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // 添加 "Hello World" 标签
