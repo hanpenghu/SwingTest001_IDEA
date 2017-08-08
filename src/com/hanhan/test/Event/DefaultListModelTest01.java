@@ -1,7 +1,6 @@
 package com.hanhan.test.Event;
 
 import javax.swing.*;
-import javax.swing.event.ListDataListener;
 import java.awt.*;
 
 public class DefaultListModelTest01 extends JFrame {
